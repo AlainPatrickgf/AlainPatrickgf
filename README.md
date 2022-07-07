@@ -1,6 +1,6 @@
 ### Ola! Sou Alain Patrick 
 
-![AlainPatrickGF's GitHub stats](https://github-readme-stats.vercel.app/api?username=alainpatrickgf&show_icons=true&theme=highcontrast)
+![AlainPatrickGF's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlainPatrickGF&show_icons=true&theme=highcontrast)
 
 Tecnologias do dia a dia!
 
